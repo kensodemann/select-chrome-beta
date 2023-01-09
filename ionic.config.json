@@ -1,0 +1,7 @@
+{
+  "name": "select-chrome-beta",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
